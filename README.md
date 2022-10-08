@@ -22,6 +22,11 @@ then you are at the right place. :)
   
   # 100 DAYS OF 100 CODES
   
+       
+| Day |                                                Challenge                                              				  |                                                                                           Solution                                                                                                                              									    |				 	  Video Explaination					   |
+|:---:|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------:|
+|  0  | [Hello, World](https://www.hackerrank.com/challenges/30-hello-world)                                  				  | [Day0HelloWorld.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Tutorials/30DaysOfCode/src/main/java/com/javaaid/hackerrank/solutions/thirtydaysofcode/Day0HelloWorld.java)               									    |														       |
+|  1  | [Data Types](https://www.hackerrank.com/challenges/30-data-types)                                     				  | [Day1DataTypes.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Tutorials/30DaysOfCode/src/main/java/com/javaaid/hackerrank/solutions/thirtydaysofcode/Day1DataTypes.java)                									    | 														       |
+|  2  | [Operators](https://www.hackerrank.com/challenges/30-operators/problem)                                   		      | [Day2Operators.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Tutorials/30DaysOfCode/src/main/java/com/javaaid/hackerrank/solutions/thirtydaysofcode/Day2Operators.java)              										    | 														       |
   
-  |Day|                                    QUESTION                                                            |                   SOLUTION              |     |:---:|:-----------------------------------------------------------------------------------------------------:|:----------------------------------------:|  
-  | 0  |                  [Hello, world](https://www.hackerrank.com/challenges/welcome-to-java/problem)         |    [Day0HelloWorld.java](https://github.com/Shivaammm/Hackerrank-solutions/commit/2ff7f252ca4a9eb86c76bc3436b2d5417d313034) |
+  
