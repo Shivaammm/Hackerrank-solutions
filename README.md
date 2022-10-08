@@ -23,5 +23,5 @@ then you are at the right place. :)
   # 100 DAYS OF 100 CODES
   
   
-  |Day|                                    QUESTION                                                            |                   SOLUTION                       |:---:|:-----------------------------------------------------------------------------------------------------:|:----------------------------------------:|  
-  |0  |                  [Hello, world](https://www.hackerrank.com/challenges/welcome-to-java/problem)         |    [Day0HelloWorld.java](https://github.com/Shivaammm/Hackerrank-solutions/commit/2ff7f252ca4a9eb86c76bc3436b2d5417d313034) |
+  |Day|                                    QUESTION                                                            |                   SOLUTION              |     |:---:|:-----------------------------------------------------------------------------------------------------:|:----------------------------------------:|  
+  | 0  |                  [Hello, world](https://www.hackerrank.com/challenges/welcome-to-java/problem)         |    [Day0HelloWorld.java](https://github.com/Shivaammm/Hackerrank-solutions/commit/2ff7f252ca4a9eb86c76bc3436b2d5417d313034) |
